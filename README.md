@@ -102,7 +102,7 @@ You can use your own Google Sheet as the source.
 ---
 
 ## 🖼️ Screenshots
-
+![Quote Widget Screenshot](/screenshot/Widget Screenshot.jpeg)
 
 ---
 
