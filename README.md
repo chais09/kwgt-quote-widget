@@ -16,17 +16,17 @@ It fetches data from a simple **Google Apps Script JSON API**, supports filters 
 ---
 
 ## 🧱 Project Structure
-kwgt-quote-widget/
-├─ widgets/
-│ └─ QuoteWidget.kwgt # The KWGT preset file
-| └─ ReadMe.md # The KWGT preset file
-├─ api/
-│ ├─ quote_api.js # Google Apps Script code
-│ └─ README.md # API deployment guide
-├─ screenshot/
-│ ├─ screenshot.png # Screenshot
-├─ README.md # This file
-└─ LICENSE # MIT License
+kwgt-quote-widget/\
+├─ widgets/\
+│ └─ QuoteWidget.kwgt # The KWGT preset file\
+| └─ ReadMe.md # The KWGT preset file\
+├─ api/\
+│ ├─ quote_api.js # Google Apps Script code\
+│ └─ README.md # API deployment guide\
+├─ screenshot/\
+│ ├─ screenshot.png # Screenshot\
+├─ README.md # This file\
+└─ LICENSE # MIT License\
 
 ---
 
